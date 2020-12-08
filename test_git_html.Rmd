@@ -2,7 +2,9 @@
 title: "Test Git HTML"
 author: "Aimé"
 date: "08/12/2020"
-output: github_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
