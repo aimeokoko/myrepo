@@ -3,4 +3,4 @@
 plot(mtcars$mpg)
 
 #plot another var
-plot(rnorm(100))
+plot(rnorm(200))
